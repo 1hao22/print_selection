@@ -1,0 +1,90 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration:none
+}
+
+.navbar{
+    background-color: rgb(184, 184, 184);
+    width: 100%;
+    padding: 30px;
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+}
+.navbar img{
+    padding-left: 0px;
+    width: 50%;
+    height: 40%;
+}
+.navbar p{
+    color: white;
+    letter-spacing: 4px;
+    font-size: 10px;
+    padding-left: 25px;
+}
+.box{
+    background-color: #DBD1C8;
+    border-radius: 20px;
+    margin-top: 106px;
+    padding-top: 1px;
+
+}
+.box p{
+    font-size: 25px;
+    letter-spacing: 5px;
+    color: #4D4D4D;
+    padding: 0px 30px;
+}
+
+.fa-cloud-upload-alt{
+    font-size: 60px;
+    color: white;
+    margin-top: -15px;
+    display: block;
+}
+.line{
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    align-items: center;
+    display: inline-flex;
+    margin: 20px 0px 10px 0px;
+}
+.usb{
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    align-items: center;
+    display: inline-flex;
+    margin: 5px 0px 0px 0px;
+}
+.computer{
+    padding: 20px 20px 20px 25px;
+    background-color: white;
+    border-radius: 20px;
+    align-items: center;
+    display: inline-flex;
+    margin: 15px 0px 30px 0px;
+}
+i{
+    font-size: 30px;
+    color: #5C656D;
+}
+.fa-chevron-circle-right{
+    padding: 0px 0px 0px 50px;
+}
+.fa-line{
+    padding: 0px 30px 0px 30px;
+}
+.fa-usb{
+    padding: 0px 30px 0px 30px;
+}
+.fa-desktop{
+    padding: 0px 0px 0px 30px ;
+}
+.computer .fa-chevron-circle-right{
+    padding: 0px 0px 0px 25px;
+}
